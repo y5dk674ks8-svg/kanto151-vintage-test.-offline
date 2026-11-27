@@ -1,1 +1,1 @@
-Retry Pages deployment after transient missing artifact response.
+Deploy iOS Safari-compatible Image-to-Canvas photo decoding fix.
