@@ -4,3 +4,4 @@ Force iPhone service worker cache refresh v2-14.
 Hard refresh app cache and network-first index build 2026.11.27-04.
 Publish Tesseract.js 7.0.0 iOS LSTM-core build 2026.11.27-05.
 Correct visible build label 2026.11.27-05.
+Publish verified build 2026.11.27-06 with automatic Tesseract core selection.
