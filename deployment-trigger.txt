@@ -1,1 +1,1 @@
-Trigger redeployment after OCR fixes in offline-scanner.
+Redeploy explicit Tesseract WebAssembly core path.
