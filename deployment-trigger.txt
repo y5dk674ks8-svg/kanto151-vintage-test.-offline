@@ -2,3 +2,4 @@ Deploy diagnostic scanner with visible stage errors and OCR self-test.
 Publish scanner with tested non-SIMD OCR core.
 Force iPhone service worker cache refresh v2-14.
 Hard refresh app cache and network-first index build 2026.11.27-04.
+Publish Tesseract.js 7.0.0 iOS LSTM-core build 2026.11.27-05.
