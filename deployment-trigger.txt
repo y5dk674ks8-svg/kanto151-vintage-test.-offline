@@ -1,1 +1,1 @@
-Trigger initial GitHub Pages deployment for the offline scanner test.
+Trigger redeployment after OCR fixes in offline-scanner.
