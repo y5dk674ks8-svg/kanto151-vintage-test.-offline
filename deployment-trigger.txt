@@ -1,1 +1,1 @@
-Deploy iOS Safari-compatible Image-to-Canvas photo decoding fix.
+Deploy diagnostic scanner with visible stage errors and OCR self-test.
