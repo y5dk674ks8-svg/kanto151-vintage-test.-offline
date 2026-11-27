@@ -1,1 +1,1 @@
-Trigger deployment of the latest offline-scanner branch. The Pages workflow checks out y5dk674ks8-svg/kanto151-vintage@offline-scanner.
+Deploy scanner build 2026.11.27-12
