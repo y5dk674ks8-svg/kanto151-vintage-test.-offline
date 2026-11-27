@@ -1,1 +1,1 @@
-Deploy scanner build 2026.11.27-18
+Deploy scanner build 2026.11.27-19
