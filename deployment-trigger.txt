@@ -1,1 +1,1 @@
-Fresh Pages deployment after restoring the documented Tesseract v5 corePath directory.
+Deploy direct same-origin OCR worker and visible worker errors.
