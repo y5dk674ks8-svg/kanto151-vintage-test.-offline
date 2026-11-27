@@ -1,1 +1,2 @@
 Deploy diagnostic scanner with visible stage errors and OCR self-test.
+Publish scanner with tested non-SIMD OCR core.
