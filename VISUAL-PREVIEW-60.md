@@ -1,0 +1,1 @@
+Build 60: filter the visual candidate pool to English cards belonging to the original Kanto 151, improve artwork crop alignment and local tile matching, and label scores as relative visual scores. Production root remains pinned to version 57.
