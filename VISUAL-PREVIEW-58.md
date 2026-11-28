@@ -1,0 +1,1 @@
+Isolated visual card-matching preview deployment. Production root remains pinned to version 57. Preview collection storage is isolated from the production app.
