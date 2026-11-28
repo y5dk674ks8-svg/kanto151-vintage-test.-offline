@@ -1,4 +1,4 @@
-name: Deploy scanner build 57
+name: Deploy build 57 plus isolated visual-matching preview
 
 on:
   workflow_dispatch:
@@ -30,6 +30,13 @@ jobs:
           repository: y5dk674ks8-svg/kanto151-vintage
           ref: c1b575a738b3d1006266eb177467aec2b937b5c5
           path: site
+
+      - name: Check out isolated visual-matching prototype
+        uses: actions/checkout@v4
+        with:
+          repository: y5dk674ks8-svg/kanto151-vintage
+          ref: visual-card-matching-prototype
+          path: site/preview
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
