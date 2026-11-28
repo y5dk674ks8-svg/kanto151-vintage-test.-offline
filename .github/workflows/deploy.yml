@@ -1,4 +1,4 @@
-name: Restore original online scanner
+name: Deploy scanner build 57
 
 on:
   workflow_dispatch:
@@ -24,11 +24,11 @@ jobs:
       - name: Check out this deployment repository
         uses: actions/checkout@v4
 
-      - name: Check out the original online app
+      - name: Check out scanner build 57
         uses: actions/checkout@v4
         with:
           repository: y5dk674ks8-svg/kanto151-vintage
-          ref: main
+          ref: c1b575a738b3d1006266eb177467aec2b937b5c5
           path: site
 
       - name: Configure GitHub Pages
