@@ -1,0 +1,1 @@
+Build 59: direct visual card matching runs immediately after card rectification, before OCR. Search spans English and Japanese 1996–2002 TCGdex cards.
