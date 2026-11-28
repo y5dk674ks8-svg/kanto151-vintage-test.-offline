@@ -1,0 +1,1 @@
+Build 61: replace artwork-only matching with full-card matching. Compare the normalized whole card and 4x4 spatial regions, including borders, header, text bands and footer; keep the artwork crop as a secondary signal. Feature cache version bumped to v4.
